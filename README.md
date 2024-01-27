@@ -6,6 +6,14 @@ Estou iniciando na carreira de tecnologia, estou iniciando como desenvolver de F
 
 ![image](https://github.com/Douglassilvaaa/Douglassilvaaa/assets/157911745/629a594d-a817-4988-9f9a-0cb40b527046)
 
+![image](https://github.com/Douglassilvaaa/Douglassilvaaa/assets/157911745/0a6bfecb-d1f5-4fe1-8f57-f9600a5a1515)
+
+![image](https://github.com/Douglassilvaaa/Douglassilvaaa/assets/157911745/0b8b70bf-a59f-444d-923d-b5877989df4c)
+
+
+
+
+
 
 
 
