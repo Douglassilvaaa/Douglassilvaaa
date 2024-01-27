@@ -10,30 +10,18 @@
 </head>
 
 
-<body style="background-color: black;">
+<body style="background-color: black; color:white">
     
-    <h1>
-    #### Olá Dev , me Chamo Douglas Alesandro Da Silva.####
+    
+    
+        <code>
+            <h2>
+            #### Olá Dev , me Chamo Douglas Alesandro Da Silva.####
     Estou iniciando na carreira de tecnologia, estou iniciando como desenvolver de Front-End, acompanhe meu crescimento por aqui 🎉
-    </h1>
+            </h2>
 
-    Atualmente Sigo aprendendo as seguintes linguagens.  Com o profeessor  https://github.com/ralfslima/
-    
-    [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-    
-    [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-    
-    [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
-    
-    [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-
-![Teste](https://github.com/Douglassilvaaa/Douglassilvaaa/blob/main/img.png)
-    
-</body>
-</html>
-
-
-
+   <h4> <br>Atualmente Sigo aprendendo as seguintes linguagens.  Com o profeessor <a href="https://github.com/ralfslima/">Ralf</a>
+        </br></h4>
 
 
 
