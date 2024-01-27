@@ -3,7 +3,7 @@ Estou iniciando na carreira de tecnologia, estou iniciando como desenvolver de F
 
 Atualmente Sigo aprendendo as seguintes linguagens.  Com o profeessor  https://github.com/ralfslima/
 
-[![My Skills](https://skillicons.dev/icons?i=html,
+[![My Skills](https://skillicons.dev/icons?i=html](https://skillicons.dev)
 
 
 
