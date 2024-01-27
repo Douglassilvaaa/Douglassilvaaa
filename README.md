@@ -9,6 +9,7 @@ Atualmente Sigo aprendendo as seguintes linguagens.  Com o profeessor  https://g
 
 [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 
 
 
