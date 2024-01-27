@@ -12,7 +12,7 @@ Atualmente Sigo aprendendo as seguintes linguagens.  Com o profeessor  https://g
 
 ![image](https://github.com/Douglassilvaaa/Douglassilvaaa/assets/157911745/0b8b70bf-a59f-444d-923d-b5877989df4c)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
