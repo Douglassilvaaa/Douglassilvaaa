@@ -22,7 +22,20 @@
 
    <h4> <br>Atualmente Sigo aprendendo as seguintes linguagens.  Com o profeessor <a href="https://github.com/ralfslima/">Ralf</a>
         </br></h4>
+    
+    [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+    
+    [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+    
+    [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+    
+    [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+        </code>
 
+
+    
+</body>
+</html>
 
 
 
